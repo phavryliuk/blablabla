@@ -1,0 +1,14 @@
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\bin\Debug\uk-UA\WindowsFormsApp1.resources.dll
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.uk-UA.resources
+C:\Users\Petro Havryliuk\source\repos\kalc\WindowsFormsApp1\obj\Debug\uk-UA\WindowsFormsApp1.resources.dll
